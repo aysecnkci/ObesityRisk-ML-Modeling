@@ -4,6 +4,12 @@
 
 This project uses a dataset from **Kaggle Playground Series S4E2** to predict the risk of obesity. The goal is to classify individuals into different categories of obesity risk based on their age, gender, physical activity, and eating habits.
 
+### Project Structure
+
+- `src/obesity_risk.py`
+- `notebook/Obesity_Risk.ipynb`
+
+
 ### Target Variable: **NObeyesdad**
 - **Insufficient Weight**: 0
 - **Normal Weight**: 1
@@ -54,6 +60,22 @@ The models are evaluated using different metrics. After tuning the parameters, t
    ```bash
    git clone https://github.com/aysecnkci/ObesityRisk-ML-Modeling.git
 
+
+2. Navigate to the `src` directory and run the `obesity_risk.py` file:
+   ```bash
+   cd src
+   python obesity_risk.py
+   ```
+
+3. Alternatively, you can explore the project step-by-step in the Jupyter Notebook:
+   ```bash
+   jupyter notebook notebook/Obesity_Risk.ipynb
+   ```
+
+4. The project requires the following Python libraries, which you can install using:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ## Results
 
