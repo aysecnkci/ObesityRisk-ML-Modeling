@@ -1,5 +1,7 @@
 # Obesity Risk Prediction Project
 
+![Obesity Risk Overview](https://media.licdn.com/dms/image/D4D12AQEcmdjxX_GBqw/article-cover_image-shrink_600_2000/0/1715936450302?e=2147483647&v=beta&t=NkcwNufvlbE3_YpeKWmODVbqVobvHo2P041KiAkll3M)
+
 ## Project Summary
 
 This project uses a dataset from **Kaggle Playground Series S4E2** to predict the risk of obesity. The goal is to classify individuals into different categories of obesity risk based on their age, gender, physical activity, and eating habits.
